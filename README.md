@@ -12,7 +12,10 @@ Hi, I have 9 years experience of many different programming languages. I am work
 <br/>
 <br>
 
-* [Personal Blog](https://oguzkr.com)
+* ✍🏼 [Personal Blog](https://oguzkr.com)
+* 📃 [Resume](https://oguzkr.com/resume.pdf)
+
+
 
 - 💼 Need help? [contact@oguzkr.com](mailto:contact@oguzkr.com)
 - 💬 Ask me about anything, i am happy to help.
