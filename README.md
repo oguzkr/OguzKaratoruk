@@ -12,12 +12,12 @@ Hi, I have 9 years experience of many different programming languages. I am work
 <br/>
 <br>
 
-* ✍🏼 [Personal Blog](https://oguzkr.com)
-* 📃 [Resume](https://oguzkr.com/resume.pdf)
+* ✍🏼 [Personal Blog](https://oguzdoruk.com)
+* 📃 [Resume](https://oguzdoruk.com/resume.pdf)
 
 
 
-- 💼 Need help? [contact@oguzkr.com](mailto:contact@oguzkr.com)
+- 💼 Need help? [contact@oguzdoruk.com](mailto:contact@oguzdoruk.com)
 - 💬 Ask me about anything, i am happy to help.
 - ✨ Thank you for visiting my profile.
 <br>
